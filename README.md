@@ -21,8 +21,8 @@ The objective of the Advanced-Calculator project is to provide a simple, interac
 4.Input Handling: Captures and processes user inputs via the command line.
 <br>
 <h1> Technologies Used</h1>
-Programming Language: Java
-Platform: Vs code
-Core Libraries:
-java.util.Scanner for user input.
+Programming Language: Java<br>
+Platform: Vs code<br>
+Core Libraries:<br>
+java.util.Scanner for user input.<br>
 java.lang.Math for advanced calculations.
